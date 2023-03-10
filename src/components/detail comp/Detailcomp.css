@@ -1,0 +1,12 @@
+.icon-with-content{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    height: 60vh;
+}
+.icon-with-content-header{
+    display: flex;
+}
+ul {
+    list-style-type: none;
+}

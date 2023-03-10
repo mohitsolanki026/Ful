@@ -1,0 +1,15 @@
+.acc-container{
+    display: flex;
+    margin: 50px 200px 00px 200px;
+}
+.kkty{
+    width: 400px;
+    height: 400px;
+}
+.compo{
+    justify-content: space-between;
+    
+}
+.accord{
+    padding: 10px;
+}
